@@ -9,8 +9,8 @@ Fusion 360 rendering for the SR99 keyboard
 
 ## TODO
 
-See [sr42-keyboard-case](https://github.com/Tecsmith/sr42-keyboard-case) for ideation.
-
+- **See [sr99-keyboard-case](https://github.com/Tecsmith/sr99-keyboard-pcb) for PCB**
+- See [sr42-keyboard-case](https://github.com/Tecsmith/sr42-keyboard-case) for ideation. *[Will be same case shape]*
 
 &nbsp;<br>&nbsp;
 ---
